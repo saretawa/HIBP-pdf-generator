@@ -1,0 +1,14 @@
+{
+  "emails": [
+    "example@domain.com",
+    "example@domain.com",
+    "example@domain.com",
+  ],
+  "usernames": [
+  ],
+  "domains": [
+    ""
+  ],
+  "ips": [],
+  "passwords": []
+}
